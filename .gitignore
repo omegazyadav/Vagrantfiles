@@ -1,0 +1,3 @@
+# Avoid Copying the .vagrant directory
+*/.vagrant
+
